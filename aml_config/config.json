@@ -1,6 +1,6 @@
 {
-    "subscription_id": "",
-    "resource_group": "DevOps_AzureML_Demo",
-    "workspace_name": "AzureML_Demo_ws",
-    "location": "westeurope"
+    "subscription_id": "7478a178-459f-4074-945e-02784678b1e1",
+    "resource_group": "IAAI",
+    "workspace_name": "iaaiws",
+    "location": "eastus"
 }
