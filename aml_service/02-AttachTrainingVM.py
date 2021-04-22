@@ -49,17 +49,6 @@ remote_vm_username = config["remote_vm_username"]
 remote_vm_password = config["remote_vm_password"]
 remote_vm_ip = config["remote_vm_ip"]
 
-"""try:
-        dsvm_compute = RemoteCompute.attach(
-        ws,
-        name=remote_vm_name,
-        username=remote_vm_username,
-        address=remote_vm_ip,
-        ssh_port=22,
-        password=remote_vm_password,
-    )
-    dsvm_compute.wait_for_completion(show_output=True)"""
-
 try:
     dsvm_compute = RemoteCompute.attach_configuration(
         vm_name=remote_vm_name,
