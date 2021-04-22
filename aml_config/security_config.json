@@ -1,14 +1,14 @@
 {
-    "sp_user" : "dbd1c2ff-835d-475d-8697-aa16c7880642",
-    "sp_password" : "VB-_feR~R~g0Sie67AyXadYOD7nh9~lq80",
-    "sp_tenant_id" : "c6a3fee4-eb5b-4336-bba0-aac4502ae04f",
-    "remote_vm_name" : "iaaivm",
-    "remote_vm_username" : "azureiaai",
-    "remote_vm_password" : "Forensics@247",
-    "remote_vm_ip" : "20.84.91.44",
+    "sp_user" : "",
+    "sp_password" : "",
+    "sp_tenant_id" : "",
+    "remote_vm_name" : "",
+    "remote_vm_username" : "",
+    "remote_vm_password" : "",
+    "remote_vm_ip" : "",
     "experiment_name" : "devops-ai-demo",
     "aml_cluster_name" : "aml-compute",
-    "vnet_resourcegroup_name" : "IAAI", 
-    "vnet_name" : "IAAI-vnet", 
+    "vnet_resourcegroup_name" : "", 
+    "vnet_name" : "", 
     "subnet_name" : ""
 }
